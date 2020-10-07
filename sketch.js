@@ -3,7 +3,7 @@ function preload(){}
 function setup() {
   cnv = createCanvas(windowWidth,windowHeight);
   angleMode(DEGREES);
-  background(3, 10, 16); //colore sfondo
+  background(10, 34, 56); //colore sfondo
   frameRate(60);
 }
 
